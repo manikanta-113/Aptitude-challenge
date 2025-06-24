@@ -44,4 +44,9 @@ Supported by Sri Vasavi Engineering College and LearnSquare
 This project is open-source and free to use for learning purposes.
 
 📌Contributors
-G.Mathews - 22A81A6121 T.Dheeraj - 22A81A6160 N. Raja - 22A81A6145 ch. Manikanta - 22A81A6111 P. Ganesh - 22A81A6152 V. Rama Krishna - 23A85A6108
+G.Mathews - 22A81A6121
+T.Dheeraj - 22A81A6160
+N. Raja - 22A81A6145
+ch. Manikanta - 22A81A6111 
+P. Ganesh - 22A81A6152 
+V. Rama Krishna - 23A85A6108
