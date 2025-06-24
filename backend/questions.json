@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "text": "What is a closure in JavaScript?",
+    "options": [
+      "A function having access to the parent scope",
+      "A block of code",
+      "A variable",
+      "A loop"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "text": "Explain the concept of RESTful APIs.",
+    "options": [
+      "APIs that use SOAP",
+      "APIs that use HTTP methods and stateless operations",
+      "APIs that use only GET requests",
+      "APIs that require authentication"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "text": "What is the difference between == and === in JavaScript?",
+    "options": [
+      "No difference",
+      "== checks value, === checks value and type",
+      "== checks type, === checks value",
+      "Both check value and type"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "text": "What is a promise in JavaScript?",
+    "options": [
+      "A value that may be available now, later, or never",
+      "A function",
+      "A variable",
+      "A loop"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "text": "What is the use of useState in React?",
+    "options": [
+      "To manage state in functional components",
+      "To fetch data",
+      "To style components",
+      "To create routes"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "text": "What is the output of: console.log(typeof null)?",
+    "options": [
+      "'object'",
+      "'null'",
+      "'undefined'",
+      "'number'"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "text": "What is the purpose of the 'key' prop in React lists?",
+    "options": [
+      "To uniquely identify elements for efficient updates",
+      "To style list items",
+      "To fetch data",
+      "To create nested lists"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "text": "What is the difference between let, const, and var?",
+    "options": [
+      "Scope and reassignment rules",
+      "No difference",
+      "Only let and var are block scoped",
+      "Only var is block scoped"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "text": "What is the virtual DOM in React?",
+    "options": [
+      "A lightweight copy of the real DOM for efficient updates",
+      "A database",
+      "A server",
+      "A CSS file"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "text": "What is the use of useEffect in React?",
+    "options": [
+      "To perform side effects in functional components",
+      "To create classes",
+      "To manage state",
+      "To define routes"
+    ],
+    "answer": 0
+  }
+]
